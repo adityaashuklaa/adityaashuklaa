@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aditya Shukla</h1>
 <h3 align="center">From pixels to performance – Frontend is my playground.</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Boy" width="400" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaashuklaa&label=Profile%20views&color=0e75b6&style=flat" alt="adityaashuklaa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityaashuklaa" alt="adityaashuklaa" /></a> </p>
