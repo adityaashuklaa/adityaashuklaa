@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Docker Notes](https://github.com/adityaashuklaa/Docker)
 
-- 👨‍💻 All of my projects are available at [https://adityashukla.vercel.app/](https://adityashukla.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://adityashukla.vercel.app/](https://github.com/adityaashuklaa?tab=repositories)
 
 - 💬 Ask me about **Frontend development with Next.js and JavaScript. Converting Figma designs into clean code.**
 
