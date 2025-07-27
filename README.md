@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Infra Outsource](https://infraoutsource.com/)
 
-- 🌱 I’m currently learning **Next.js, Docker, Kubernetes, MongoDB, express.js and DSA.**
+- 🌱 I’m currently learning **Docker, Kubernetes, MongoDB, express.js and DSA.**
 
 - 👯 I’m looking to collaborate on [Docker Notes](https://github.com/adityaashuklaa/Docker)
 
