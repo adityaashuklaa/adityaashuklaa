@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityaashuklaa" alt="adityaashuklaa" /></a> </p>
 
-- 🔭 I’m currently working on [Infra Outsource](https://infraoutsource.com/)
+- 🔭 I’m currently working on <a href="https://infraoutsource.com/" target="_blank" rel="noopener noreferrer">Infra Outsource</a>
 
 - 🌱 I’m currently learning **Next.js, Docker, Kubernetes, MongoDB, express.js and DSA.**
 
